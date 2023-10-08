@@ -1,0 +1,2 @@
+alias ls eza --icons --color=always $*
+alias ll eza -al --icons --no-user --no-time --color=always $*
